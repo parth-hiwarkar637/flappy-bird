@@ -33,4 +33,4 @@ python game.py
 
 ---
 
-This project is part of my journey into programming and building things from scratch.
+This project is part of my journey into programming and building things from scratch..
